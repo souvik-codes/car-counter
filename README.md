@@ -2,6 +2,8 @@
 
 This project uses **YOLOv11**, **SORT**, and **OpenCV** to perform vehicle detection, tracking, and counting in video footage.
 
+![Demo](output.gif)
+
 ## Features
 
 - **Vehicle Detection**: Detects cars, trucks, buses, and motorbikes.
